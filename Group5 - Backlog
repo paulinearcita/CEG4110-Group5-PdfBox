@@ -17,16 +17,16 @@ US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to 
 Assigned Renish Sprint 1 3pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox
 Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PDFs as an image files using pdfBox
 
-US014- As a user, I want to have direct  button to change the color of my fonts, to make it more attactive
+US014 - As a user, I want to have direct  button to change the color of my fonts, to make it more attactive
 Assigned Priya Sprint 1 3pt PO Priority: Task 011 Research how to create button using pdfBox
 Assigned Priya Sprint 1 2pt PO priority: Task 012 Research similar project.
 
-US005
+US005 - As a student, I want to be able to edit the text in the pdf so I can add or omit information to my teacher's class notes that are in pdf format
 Amina Sprint 1 1pt PO Priority: Task 013 Research online resources to implement text editing using pdfbox. Completed.
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox
 Assigned Amina Sprint 1 3pt PO Priority: Task 015 Implement the code to add text to pdf file using pdfbox
 
-US013
+US013 - As a user, I want to be able to extract text from pdf files so I can save the text as a .txt file
 Assigned Amina Sprint 1 1pt PO Priority: Task 016 Research online resources to implement image extraction using pdfbox
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox
 Assigned Amina Sprint 1 3pt PO Priority: Task 017 Implement code to extract images from pdf file using pdfbox
