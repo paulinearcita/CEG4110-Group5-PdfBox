@@ -32,3 +32,7 @@ Assigned Amina Sprint 1 1pt PO Priority: Task 016 Research online resources to i
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox
 Assigned Amina Sprint 1 3pt PO Priority: Task 017 Implement code to extract images from pdf file using pdfbox
 Assigned Amina Sprint 1 5pt PO Priority: Task 018 Implement Graphical User Interface to make editing user friendly
+
+US010 - As a user, I want to have a feature to change the font and format of the extracted text, so I don't have to use any other software to change font and format.  
+Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement change of font and format using pdfbox. 
+Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code to change font and format of the extracted text using pdfbox. 
