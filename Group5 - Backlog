@@ -35,4 +35,9 @@ Assigned Amina Sprint 1 5pt PO Priority: Task 018 Implement Graphical User Inter
 
 US010 - As a user, I want to have a feature to change the font and format of the extracted text, so I don't have to use any other software to change font and format.  
 Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement change of font and format using pdfbox. 
-Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code to change font and format of the extracted text using pdfbox. 
+Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code to change font and format of the extracted text using pdfbox.
+
+US003 - As a user, I want a feature to extract pages from a PDF document that contains specific search words or 
+        text patterns so that I can find pages that contains the words or text patterns that I am looking for.
+Assigned Hazel Sprint 1 1pt PO Priority: Task 021 Research and design how to extract text from PDF files and view pages that contain them.
+Assigned Hazel Sprint 1 3pt PO Priority: Task 022 Implement the code to extract text from PDF files and view pages that contain them using pdfBox.
