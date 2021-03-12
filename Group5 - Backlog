@@ -38,7 +38,7 @@ Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up devlopment environment 
 
 US017 - As a developer, I want to use IntelliJ's built in version control functionality for easier version control
 Assigned Amina Sprint 1 1pt PO Priority: Task 024 Create a video demonstrating usage of IntelliJ VCS functionality and share on team discord. Status: Completed
-Assigned Amina Sprint 1 3pt PO Priority: Task 025 Use IntelliJ to create a test pull request, have it reviewed, and merged.
+Assigned Amina Sprint 1 3pt PO Priority: Task 025 Use IntelliJ to create a test pull request, have it reviewed, and merged. Status: Completed
 
 US010 - As a user, I want to have a feature to change the font and format of the extracted text, so I don't have to use any other software to change font and format.  
 Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement change of font and format using pdfbox. 
