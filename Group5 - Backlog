@@ -2,8 +2,11 @@ WEEK 5 Backlog
 
 US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.
 Assigned Pauline Sprint 1 1pt PO Priority: Task 001 Research similar project. Status: Completed
-Assigned Pauline Sprint 1 2pts PO Priority: Task 002 Design how to convert pdf files to PowerPoint using pdfbox.
-Assigned Pauline Sprint 1 3pts PO Priority: Task 003 Implement and code to convert pdf file to PowerPoint using pdfbox.
+Assigned Pauline Sprint 1 2pts PO Priority: Task 002 Implement the code to create PowerPoint file and slides. 
+Assigned Pauline Sprint 1 1pts PO Priority: Task 003 Research if there are packages that can be used for converting pdf to PowerPoint.
+Assigned Pauline Sprint 1 2pts PO Priority: Task 026 Implement the code to create IO files.  
+Assigned Pauline Sprint 1 3pts PO Priority: Task 027 Implement the code to extract texts/images.
+Assigned Pauline Sprint 1 3pts PO Priority: Task 028 Implement the code to convert pdf file to PowerPoint using pdfbox.
 
 US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my harddrive as a standalone image file so that I am able to use them as I see fit.
 Assigned Joshua Sprint 1 3pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files.
