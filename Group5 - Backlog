@@ -28,20 +28,22 @@ Assigned Priya Sprint 1 2pt PO priority: Task 012 Research similar project.
 US015 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
 Assigned Priya Sprint 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file usng PDFbox.
-Assignned Priya Sprint 3 pt:PO priority: Task 030 Implement the code necessary to achieve the functionlity of US015.
+Assignned Priya Sprint 3 pt:PO priority: Task 032 Implement the code necessary to achieve the functionlity of US015.
 
 US005 - As a student, I want to be able to edit the text in the pdf so I can add or omit information to my teacher's class notes that are in pdf format
 Assigned Amina Sprint 1 1pt PO Priority: Task 013 Research online resources to implement text editing using pdfbox. Status: Completed.
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox
 Assigned Amina Sprint 2 3pt PO Priority: Task 015 Implement the code to add text to pdf file using pdfbox
-Assigned Amina Sprint 1 1pt PO Priority: Task 029 Add test pdf file in main directory for testing and update code accordingly
+Assigned Amina Sprint 1 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly
+Assigned Amina Sprint 2 1pt PO Priority: Task 034 Demonstrate the user story requirements are met
 
 US013 - As a user, I want to be able to extract text from pdf files so I can save the text as a .txt file
 Assigned Amina Sprint 1 1pt PO Priority: Task 016 Research online resources to implement image extraction using pdfbox. Status: Completed.
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox
 Assigned Amina Sprint 2 3pt PO Priority: Task 017 Implement code to extract images from pdf file using pdfbox
 Assigned Amina Sprint 3 5pt PO Priority: Task 018 Implement Graphical User Interface to make editing user friendly
-Assigned Amina Sprint 2 1pt PO Priority: Task 029 Add test pdf file in main directory for testing and update code accordingly
+Assigned Amina Sprint 2 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly
+Assigned Amina Sprint 2 1pt PO Priority: Task 035 Demonstrate the user story requirements are met
 
 US016 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work
 Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up devlopment environment with Maven for all developers to use as template for their branches. Status: Completed
