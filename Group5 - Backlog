@@ -22,11 +22,13 @@ Assigned Renish Sprint 1 3pt PO Priority: Task 009 Research how to save PDFs as 
 Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PDFs as an image files using pdfBox
 
 US014 - As a user, I want to have direct  button to change the color of my fonts, to make it more attactive
-Assigned Priya Sprint 1 3pt PO Priority: Task 011 Research how to create button using pdfBox
+Assigned Priya Sprint 1 1pt PO Priority: Task 011 Research how to create button using pdfBox
 Assigned Priya Sprint 1 2pt PO priority: Task 012 Research similar project.
+
 US015 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
-Assignned Priya Sprint 1 pt:PO priority: Task 030 Implement the code necessary to achieve the functionlity of US015.
+Assigned Priya Sprint 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file usng PDFbox.
+Assignned Priya Sprint 3 pt:PO priority: Task 030 Implement the code necessary to achieve the functionlity of US015.
 
 US005 - As a student, I want to be able to edit the text in the pdf so I can add or omit information to my teacher's class notes that are in pdf format
 Assigned Amina Sprint 1 1pt PO Priority: Task 013 Research online resources to implement text editing using pdfbox. Status: Completed.
