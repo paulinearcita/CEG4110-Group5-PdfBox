@@ -58,6 +58,7 @@ Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code to change 
 
 US003 - As a user, I want a feature to extract pages from a PDF document that contains specific search words or 
         text patterns so that I can find pages that contains the words or text patterns that I am looking for.
-Assigned Hazel Sprint 1 1pt PO Priority: Task 021 Research how to extract text from PDF files and view pages that contain them. Status: Completed
-Assigned Hazel Sprint 1 2pt PO Priority: Task 022 Implement the code to extract text from PDF files using pdfBox.
-Assigned Hazel Sprint 1 3pt PO Priority: Task 031 Implement the code to extract pages containing those text using pdfBox.
+Assigned Hazel Sprint 1 1pt PO Priority: Task 021 Research how to extract text from PDF files. Status: Completed
+Assigned Hazel Sprint 1 1pt PO Priority: Task 036 Research how to view pages that contain searched text. Status: Completed 
+Assigned Hazel Sprint 2 2pt PO Priority: Task 022 Implement the code to extract text from PDF files using pdfBox.
+Assigned Hazel Sprint 2 3pt PO Priority: Task 031 Implement the code to extract pages containing those text using pdfBox.
