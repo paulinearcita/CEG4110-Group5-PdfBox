@@ -10,14 +10,14 @@ import java.io.IOException;
 public class saveAsImage {
     public static void main(String args[]) throws IOException {
 
-        //this was a test pdf file
+        /// this was a test pdf file
         PDDocument document = PDDocument.load(new File("C:/Users/renis/Desktop/project1.pdf"));
         PDFRenderer pdfRenderer = new PDFRenderer(document);
         for (int page = 0; page < document.getNumberOfPages(); ++page)
         {
             BufferedImage bim = pdfRenderer.renderImageWithDPI(page, 300, ImageType.RGB);
 
-            // suffix in filename will be used as the file format
+            /// suffix in filename will be used as the file format
             ImageIOUtil.writeImage(bim, document + "-" + (page+1) + ".png", 300);
             System.out.println("Image file extracted");
         }
