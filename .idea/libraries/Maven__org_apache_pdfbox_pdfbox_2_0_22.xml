@@ -2,7 +2,6 @@
   <library name="Maven: org.apache.pdfbox:pdfbox:2.0.22">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22.jar!/" />
-      <root url="jar://$USER_HOME$/Desktop/poi-5.0.0/poi-5.0.0.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22-javadoc.jar!/" />
