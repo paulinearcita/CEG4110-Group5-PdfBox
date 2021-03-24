@@ -13,6 +13,7 @@ US005 - As a student, I want to be able to edit the text in the pdf so I can add
 US013 - As a user, I want to be able to extract text from pdf files so I can save the text as a .txt file
 US016 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work
 US017 - As a developer, I want to use IntelliJ's built in version control functionality for easier version control
+US018 - As a developer, I want to use Doxygen to create a software design document for efficient design documentation
 
 Renish Madhukar
 US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to share on social media.
