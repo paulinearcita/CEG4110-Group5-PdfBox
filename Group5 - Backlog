@@ -52,6 +52,10 @@ US017 - As a developer, I want to use IntelliJ's built in version control functi
 Assigned Amina Sprint 1 1pt PO Priority: Task 024 Create a video demonstrating usage of IntelliJ VCS functionality and share on team discord. Status: Completed
 Assigned Amina Sprint 1 3pt PO Priority: Task 025 Use IntelliJ to create a test pull request, have it reviewed, and merged. Status: Completed
 
+US018 - As a developer, I want to use Doxygen to create a software design document for efficient design documentation
+Assigned Amina Sprint 3 1pt PO Priority: Task 037 Add Doxygen formatted comments
+Assigned Amina Sprint 3 2pt PO Priority: Task 038 Use Doxygen to produce SDD for entire project
+
 US010 - As a user, I want to have a feature to change the font and format of the extracted text, so I don't have to use any other software to change font and format.  
 Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement change of font and format using pdfbox. 
 Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code to change font and format of the extracted text using pdfbox.
