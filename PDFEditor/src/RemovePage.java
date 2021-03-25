@@ -1,8 +1,7 @@
-import org.apache.pdfbox.pdmodel.PDDocument;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-import static java.lang.System.exit;
+import org.apache.pdfbox.pdmodel.PDDocument;
 
 public class RemovePage {
     public static void main(String[] args)throws IOException {
@@ -26,7 +25,7 @@ public class RemovePage {
         //If Number of pages not equals to 0 then move ahead and remove the page specified by the user.
         else {
             //Getting the page number from console which will be deleted
-            System.out.print("Enter the Page Number to be Removed OR Enter 0 to not delete anything ");
+            System.out.print("Enter the Page Number to be Removed OR Enter 0 to not delete anything: ");
 
             //Scanner object to get the input from the console
             Scanner in = new Scanner(System.in);
@@ -41,8 +40,8 @@ public class RemovePage {
                 System.out.print("Page Number Not In the document. ");
             }
             //Remove the page specified by the user
-            else {
-                doc.removePage(a);
+            else  {
+                doc.removePage(a-1);
                 System.out.println("Page number: " + a + " removed successfully.");
             }
         }
@@ -53,4 +52,5 @@ public class RemovePage {
         //Closing the document
         doc.close();
     }
+
 }  
