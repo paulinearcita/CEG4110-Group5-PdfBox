@@ -57,9 +57,13 @@ US018 - As a developer, I want to use Doxygen to create a software design docume
 Assigned Amina Sprint 3 1pt PO Priority: Task 037 Add Doxygen formatted comments
 Assigned Amina Sprint 3 2pt PO Priority: Task 038 Use Doxygen to produce SDD for entire project
 
-US010 - As a user, I want to have a feature to change the font and format of the extracted text, so I don't have to use any other software to change font and format.  
-Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement change of font and format using pdfbox. 
-Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code to change font and format of the extracted text using pdfbox.
+US010 - As a user, I want to have a feature to delete a page from the pdf document.  
+Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement a feature to delete a page from the pdf document Status: Completed
+Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code for a feature which can delete a page from the pdf document. Status: Completed
+
+US019 - As a user, I want to have a feature to add images to a PDF document.
+Assigned Sanyam Sprint 2 2pt PO Priority: Task 040 Research online resources to implement adding of images to the pdf document. 
+Assigned Sanyam Spring 2 3pt PO Priority: Task 041 Implement the code for a feature which can add images to the pdf document.
 
 US003 - As a user, I want a feature to extract pages from a PDF document that contains specific search words or 
         text patterns so that I can find pages that contains the words or text patterns that I am looking for.
