@@ -34,7 +34,7 @@ US005 - As a student, I want to be able to edit the text in the pdf so I can add
 Assigned Amina Sprint 1 1pt PO Priority: Task 013 Research online resources to implement text editing using pdfbox. Status: Completed.
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox. Status: Completed
 Assigned Amina Sprint 2 3pt PO Priority: Task 015 Implement the code to add text to pdf file using pdfbox
-Assigned Amina Sprint 1 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly
+Assigned Amina Sprint 3 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly
 Assigned Amina Sprint 2 1pt PO Priority: Task 034 Demonstrate the user story requirements are met
 
 US013 - As a user, I want to be able to extract text from pdf files so I can save the text as a .txt file
