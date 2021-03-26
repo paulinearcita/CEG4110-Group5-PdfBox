@@ -12,7 +12,6 @@ US011 - As a user, I want to be able to extract charts and/or graphs from pdf fi
 Assigned Joshua Sprint 1 1pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files.
 Assigned Joshua Sprint 1 1pt PO Priority: Task 005 research how to save to harddrive as a standalone image the extracted charts and/or graphs.
 Assigned Joshua Sprint 1 3pt PO Priority: Task 006 implement the code necessary to achieve the functionality of US011.
-Assigned Joshua Sprint 2 1pt PO Priority: Task 039 add doxygen style comments to us011 code previously submitted.
 
 US012 - As a student, I want to be able to merge multiple pdf files into one larger pdf file so that I can have various school handouts in one location.
 Assigned Joshua Sprint 2 1pt PO Priority: Task 007 research how to merge multiple pdf files into one larger pdf file.
