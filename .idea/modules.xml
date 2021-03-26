@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CEG4110-Group5-PdfBox.iml" filepath="$PROJECT_DIR$/.idea/CEG4110-Group5-PdfBox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PDFEditor/Test.iml" filepath="$PROJECT_DIR$/PDFEditor/Test.iml" />
-    </modules>
-  </component>
-</project>
