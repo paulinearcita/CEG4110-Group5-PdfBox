@@ -65,9 +65,13 @@ US019 - As a user, I want to have a feature to add images to a PDF document.
 Assigned Sanyam Sprint 2 2pt PO Priority: Task 040 Research online resources to implement adding of images to the pdf document. 
 Assigned Sanyam Spring 2 3pt PO Priority: Task 041 Implement the code for a feature which can add images to the pdf document.
 
-US003 - As a user, I want a feature to extract pages from a PDF document that contains specific search words or 
-        text patterns so that I can find pages that contains the words or text patterns that I am looking for.
-Assigned Hazel Sprint 1 1pt PO Priority: Task 021 Research how to extract text from PDF files. Status: Completed
+US003 - As a user, I want a feature to extract pages from a PDF document that contains specific words so that I can find pages 
+        that contains the words that I am looking for.
+Assigned Hazel Sprint 1 1pt PO Priority: Task 021 Research how to extract text from PDF files and view pages that contain them. Status: Completed
 Assigned Hazel Sprint 1 1pt PO Priority: Task 036 Research how to view pages that contain searched text. Status: Completed 
-Assigned Hazel Sprint 2 2pt PO Priority: Task 022 Implement the code to extract text from PDF files using pdfBox.
-Assigned Hazel Sprint 2 3pt PO Priority: Task 031 Implement the code to extract pages containing those text using pdfBox.
+Assigned Hazel Sprint 2 2pt PO Priority: Task 022 Implement the code to count how many times string showed up in the pdf. Status: Completed 
+Assigned Hazel Sprint 2 2pt PO Priority: Task 031 Implement the code to show the pages where the string was found. Status: Completed 
+Assigned Hazel Sprint 2 1pt PO Priority: Task 042 Create a test file to test the implemented code. Status: Completed 
+Assigned Hazel Sprint 2 3pt PO Priority: Task 043 Implement a Graphical User Interface to show the pages of the pdf file.
+Assigned Hazel Sprint 3 3pt PO Priority: Task 044 Set up the Graphical User Interface so that it shows only the pages that contain the searched strings.
+Assigned Hazel Sprint 3 1pt PO Priority: Task 045 Demonstrate that the user story requirements are met.
