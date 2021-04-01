@@ -5,7 +5,7 @@ import org.apache.pdfbox.pdmodel.encryption.StandardProtectionPolicy;
 
 import java.io.File;
 import java.io.IOException;
-public class Encryption {
+public class EncryptionPDF {
 
     public static void main(String[] args)throws IOException {
 
