@@ -20,5 +20,34 @@ public class PdfToPptx {
 
     public static void main(String[] args) {
 
+        String filename = "test.pptx";
+        /// try and catch block for handling exceptions for dealing with input/output stream
+        try{
+            /// To create an empty PowerPoint SlideShow
+            XMLSlideShow ppt = new XMLSlideShow();
+
+            /// Creating a file
+            File file = new File(filename);
+
+            /// Creating output stream for filename "file"
+            FileOutputStream out = new FileOutputStream(file);
+
+            /// Creating a slide for the ppt
+            XSLFSlide slide1 = ppt.createSlide();
+
+            /// Writing file to the output stream
+            ppt.write(out);
+
+            System.out.println("Powerpoint file created successfully!");
+
+            /// Closing output stream
+            out.close();
+
+        } catch (Exception e){
+            System.out.println("File Failure: " + filename);
+            e.printStackTrace();
+        }
+
+
     }
 }
