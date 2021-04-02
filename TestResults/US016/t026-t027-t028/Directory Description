@@ -1,0 +1,7 @@
+This directory includes proof of completion of tasks t026, t027 and t028. There are 3 files included in this directory which are the files that were used in this project. 
+Files:
+  pdfFileTest.pdf - test file to convert to PowerPoint
+  pdfFileTest.pdf.pptx - converted PowerPoint file
+  pdfFileTest1.png - photo of pdf to be put into the PowerPoint
+
+Another file is to show snippets of files and runtime to prove that this ran without errors.
