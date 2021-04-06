@@ -2,6 +2,7 @@ Jean Pauline Arcita
 ~~US001 - As a user, I want to have a feature to search for handwritten notes so that I can look for words even it is handwritten.~~
 ~~US002 - As a user, I want to have a feature to add collaborators and tag them on the document so that they will be notified when they need something done in the document.~~
 US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.
+US021 - As a user, I want to be able to extract hyperlinks on PDF document so that I can summarize all links that the document used.
 
 Hazel Gabutan
 US003 - As a user, I want a feature to extract pages from a PDF document that contains specific search words or text patterns so that I can find pages that contains the words or text patterns that I am looking for.
