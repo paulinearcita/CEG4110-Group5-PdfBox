@@ -7,6 +7,7 @@ Assigned Pauline Sprint 1 1pts PO Priority: Task 003 Research if there are packa
 Assigned Pauline Sprint 2 2pts PO Priority: Task 026 Implement the code to create IO files for images. Status: Completed
 Assigned Pauline Sprint 2 3pts PO Priority: Task 027 Implement the code to extract texts/images. Status: Completed
 Assigned Pauline Sprint 2 3pts PO Priority: Task 028 Implement the code to convert pdf file to PowerPoint using pdfbox. Status: Completed
+Assigned Pauline Sprint 3 5pts PO Priority: Task 047 Implement Doxygen documentation.
 
 US021 - As a user, I want to be able to extract hyperlinks on PDF document so that I can summarize all links that the document used.
 Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary information to do this user story. 
