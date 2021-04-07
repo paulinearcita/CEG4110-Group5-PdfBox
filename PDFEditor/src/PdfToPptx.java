@@ -16,11 +16,11 @@ import org.apache.poi.xslf.usermodel.XSLFPictureData;
 import org.apache.poi.xslf.usermodel.XSLFPictureShape;
 import org.apache.poi.xslf.usermodel.XSLFSlide;
 
+/// Converts a pdf file to PowerPoint file. This class is created due to US016.
 public class PdfToPptx {
 
     public static void main(String[] args) {
 
-        String filename = "test.pptx";
         try{
 
             File pdfFile = new File("C:\\Users\\arcit\\Desktop\\SPRING 2021\\CEG 4110\\CEG4110-Group5-PdfBox\\PDFEditor\\PdfToPptFiles\\pdfFileTest.pdf");
@@ -35,11 +35,9 @@ public class PdfToPptx {
                 File destinationFile = new File(destinationDir);
                 if(!destinationFile.exists()){
                     destinationFile.mkdir();
-                    System.out.println("Folder created at " + destinationFile.getAbsolutePath());
                 }
 
                 if(pdfFile.exists()) {
-                    System.out.println("Images are copied here: " + destinationFile.getName());
                     PDDocument document = PDDocument.load(pdfFile);
                     PDPageTree list = document.getPages();
 
@@ -64,7 +62,7 @@ public class PdfToPptx {
                     }
 
                     document.close();
-                    System.out.println("Converted images are saved at " + destinationFile.getAbsolutePath());
+                    System.out.println("Successfully converted pdf file to pptx");
 
                 } else {
                     System.out.println("Pdf file not found\n");
@@ -76,12 +74,11 @@ public class PdfToPptx {
                 ppt.close();
 
             } catch (Exception e){
-                //System.out.println("File Failure: " + filename);
                 e.printStackTrace();
             }
 
         } catch (Exception e) {
-            System.out.println("FILE FAILED: " + filename);
+            e.printStackTrace();
         }
 
         System.exit(0);
