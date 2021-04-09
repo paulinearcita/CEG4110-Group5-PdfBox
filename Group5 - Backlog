@@ -26,14 +26,19 @@ US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to 
 Assigned Renish Sprint 1 3pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox. Status: Completed
 Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PDFs as an image files using pdfBox. Status: Completed
 
-US014 - As a user, I want to have direct  button to change the color of my fonts, to make it more attactive
-Assigned Priya Sprint 1 1pt PO Priority: Task 011 Research how to create button using pdfBox
-Assigned Priya Sprint 1 2pt PO priority: Task 012 Research similar project.
 
-US015 - As a user,I want to have security into my PDFs file.
-Assigned Priya Sprint 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
-Assigned Priya Sprint 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file usng PDFbox.
-Assignned Priya Sprint 3 pt:PO priority: Task 032 Implement the code necessary to achieve the functionlity of US015.
+US013 - As a user,I want to have security into my PDFs file.
+Assigned Priya Sprint 1 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
+Assigned Priya Sprint 1 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file usng PDFbox. Status completed
+Assignned Priya Sprint 2 3 pt:PO priority: Task 032 Implement the code necessary to achieve the functionlity of US013.
+Assigned priya Sprint 2 1 pt PO Priority: Task 46 Add test pdf file in main directory and update code.
+
+US020 - As a user, I want to create a bookmarks in my PDFS, so that its easy to navigate my pages
+Assigned Priya Sprint 2 1pt PO Priority: Task 42 Research the similar projects. Status: Completed
+Assigned Priya Sprint 2 2 pt PO Priority: Task 43 Implement the code to count the pages of PDfs using pdf box. Status:Completed
+Assigned priya Sprint 2 3 pt PO Priority: Task 44 Implement the code to add the bookmarksin the PDF document.
+Assigned priya Sprint 2 1 pt PO Priority: Task 45 Add test pdf file in main directory and update code.
+
 
 US005 - As a student, I want to be able to add text the pdf so I can add or omit information from my teacher's class notes that are in pdf format
 Assigned Amina Sprint 1 1pt PO Priority: Task 013 Research online resources to implement text editing using pdfbox. Status: Completed.
