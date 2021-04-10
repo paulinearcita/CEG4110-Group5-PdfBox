@@ -1,7 +1,8 @@
-import java.io.IOException; 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
-  
+
+import java.io.IOException;
+
 public class DocumentCreation {
     
    public static void main (String args[]) throws IOException {
