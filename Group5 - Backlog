@@ -8,7 +8,7 @@ Assigned Pauline Sprint 2 2pts PO Priority: Task 026 Implement the code to creat
 Assigned Pauline Sprint 2 3pts PO Priority: Task 027 Implement the code to extract texts/images.
 Assigned Pauline Sprint 3 3pts PO Priority: Task 028 Implement the code to convert pdf file to PowerPoint using pdfbox.
 
-US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my harddrive as a standalone image file so that I am able to use them as I see fit.
+US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my hard drive as a standalone image file so that I am able to use them as I see fit.
 Assigned Joshua Sprint 1 3pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files.
 Assigned Joshua Sprint 1 3pt PO Priority: Task 005 research how to save to hard drive as a standalone image the extracted charts and/or graphs.
 Assigned Joshua Sprint 1 3pt PO Priority: Task 006 implement the code necessary to achieve the functionality of US011.
