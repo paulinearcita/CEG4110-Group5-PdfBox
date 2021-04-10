@@ -12,9 +12,9 @@ Assigned Pauline Sprint 3 5pts PO Priority: Task 047 Implement Doxygen documenta
 US021 - As a user, I want to be able to extract hyperlinks on PDF document so that I can summarize all links that the document used.
 Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary information to do this user story. 
 
-US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my harddrive as a standalone image file so that I am able to use them as I see fit.
+US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my hard drive as a standalone image file so that I am able to use them as I see fit.
 Assigned Joshua Sprint 1 1pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files. Status: Completed
-Assigned Joshua Sprint 1 1pt PO Priority: Task 005 research how to save to harddrive as a standalone image the extracted charts and/or graphs. Status: Completed
+Assigned Joshua Sprint 1 1pt PO Priority: Task 005 research how to save to hard drive as a standalone image the extracted charts and/or graphs. Status: Completed
 Assigned Joshua Sprint 1 3pt PO Priority: Task 006 implement the code necessary to achieve the functionality of US011. Status: In review
 Assigned Joshua Sprint 2 1pt PO Priority: Task 039 add doxygen style comments to us011 code previously submitted.
 
@@ -29,17 +29,17 @@ Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PD
 
 US022 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
-Assigned Priya Sprint 1 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file usng PDFbox. Status completed
-Assignned Priya Sprint 2 3 pt:PO priority: Task 032 Implement the code necessary to achieve the functionlity of US013.
-Assigned priya Sprint 2 1 pt PO Priority: Task 46 Add test pdf file in main directory and update code.
-Assigned priya Sprint 2 1pt PO Priority: Task 47 Demonstrate the user story requirements are met
+Assigned Priya Sprint 1 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file using PDFbox. Status completed
+Assigned Priya Sprint 2 3 pt:PO priority: Task 032 Implement the code necessary to achieve the functionality of US013.
+Assigned Priya Sprint 2 1 pt PO Priority: Task 46 Add test pdf file in main directory and update code.
+Assigned Priya Sprint 2 1pt PO Priority: Task 47 Demonstrate the user story requirements are met
 
 US020 - As a user, I want to create a bookmarks in my PDFS, so that its easy to navigate my pages
 Assigned Priya Sprint 2 1pt PO Priority: Task 42 Research the similar projects. Status: Completed
 Assigned Priya Sprint 2 2 pt PO Priority: Task 43 Implement the code to count the pages of PDfs using pdf box. Status:Completed
-Assigned priya Sprint 2 3 pt PO Priority: Task 44 Implement the code to add the bookmarksin the PDF document.
-Assigned priya Sprint 2 1 pt PO Priority: Task 45 Add test pdf file in main directory and update code.
-Assigned priya Sprint 2 1pt PO Priority: Task 048 Demonstrate the user story requirements are met
+Assigned Priya Sprint 2 3 pt PO Priority: Task 44 Implement the code to add the bookmarks to the PDF document.
+Assigned Priya Sprint 2 1 pt PO Priority: Task 45 Add test pdf file in main directory and update code.
+Assigned Priya Sprint 2 1pt PO Priority: Task 048 Demonstrate the user story requirements are met
 
 
 US005 - As a student, I want to be able to add text the pdf so I can add or omit information from my teacher's class notes that are in pdf format
@@ -58,7 +58,7 @@ Assigned Amina Sprint 3 1pt PO Priority: Task 033 Add test pdf file in main dire
 Assigned Amina Sprint 2 1pt PO Priority: Task 035 Demonstrate the user story requirements are met. Status: Completed
 
 US016 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work
-Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up devlopment environment with Maven for all developers to use as template for their branches. Status: Completed
+Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up development environment with Maven for all developers to use as template for their branches. Status: Completed
 
 US017 - As a developer, I want to use IntelliJ's built in version control functionality for easier version control
 Assigned Amina Sprint 1 1pt PO Priority: Task 024 Create a video demonstrating usage of IntelliJ VCS functionality and share on team discord. Status: Completed
