@@ -44,7 +44,7 @@ Assigned Amina Sprint 3 5pt PO Priority: Task 018 Implement Graphical User Inter
 Assigned Amina Sprint 2 1pt PO Priority: Task 029 Add test pdf file in main directory for testing and update code accordingly
 
 US016 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work
-Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up devlopment environment with Maven for all developers to use as template for their branches. Status: Completed
+Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up development environment with Maven for all developers to use as template for their branches. Status: Completed
 
 US017 - As a developer, I want to use IntelliJ's built in version control functionality for easier version control
 Assigned Amina Sprint 1 1pt PO Priority: Task 024 Create a video demonstrating usage of IntelliJ VCS functionality and share on team discord. Status: Completed
