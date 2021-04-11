@@ -9,7 +9,7 @@ import org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject;
 public class addImage {
     public static void main(String args[]) throws Exception {
 
-        //Loading an existing document
+        ///Loading an existing document
         File file = new File("C://temp//sample_form.pdf");
         PDDocument doc = PDDocument.load(file);
 
@@ -52,22 +52,22 @@ public class addImage {
         }
         ///Add the Image to the page number specified by the user
         else  {
-            //Retrieving the page
+            ///Retrieving the page
             PDPage page = doc.getPage(a-1);
-            //Creating PDImageXObject object
+            ///Creating PDImageXObject object
             PDImageXObject pdImage = PDImageXObject.createFromFile("C://temp//image.png",doc);
-            //creating the PDPageContentStream object
+            ///creating the PDPageContentStream object
             PDPageContentStream contents = new PDPageContentStream(doc, page, PDPageContentStream.AppendMode.APPEND, true);
-            //Drawing the image in the PDF document
+            ///Drawing the image in the PDF document
             contents.drawXObject( pdImage,x,y,width,height);
             System.out.println("Image inserted");
-            //Closing the PDPageContentStream object
+            ///Closing the PDPageContentStream object
             contents.close();
         }
-        //Saving the document
+        ///Saving the document
         doc.save(new File("C://temp//sample_form.pdf"));
 
-        //Closing the document
+        ///Closing the document
         doc.close();
     }
 }
