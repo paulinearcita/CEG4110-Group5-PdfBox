@@ -26,7 +26,7 @@ public class addImage {
         ///Scanner object to get the input from the console
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();
-
+        /// Taking inputs from the user
         System.out.print("Enter the x coordinate position where you want Image in PDF ");
         System.out.println();
         int x = in.nextInt();
