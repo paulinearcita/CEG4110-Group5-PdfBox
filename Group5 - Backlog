@@ -23,9 +23,12 @@ Assigned Joshua Sprint 2 1pt PO Priority: Task 007 research how to merge multipl
 Assigned Joshua Sprint 2 3pt PO Priority: Task 008 implement the code necessary to achieve the functionality of US012. In review
 
 US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to share on social media.
-Assigned Renish Sprint 1 3pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox. Status: Completed
+Assigned Renish Sprint 1 1pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox. Status: Completed
 Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PDFs as an image files using pdfBox. Status: Completed
 
+US008- As a user, I want to digitally sign the form inside PDFs, so I don’t have to print and sign on paper.
+Assigned Renish Sprint 2 1pt PO Priority: Task 049 Research how to put digital signature in the pdf using PDFBox.
+Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to put digital signature in the pdf using PDFBox.
 
 US022 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
