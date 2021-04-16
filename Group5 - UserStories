@@ -19,11 +19,12 @@ US018 - As a developer, I want to use Doxygen to create a software design docume
 Renish Madhukar
 US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to share on social media.
 ~~US008- As a user, I want to digitally sign the form inside PDFs, so I don’t have to print and sign on paper.~~
+US022 - As a user, I want to extract phone numbers from the pdf file to get contact information easily.
 
 Sanyam Goyal
 ~~US009 - As a user, I want to have a feature to extract text and images from different types of file formats, so I can use different types of docuements.~~
-US010 - As a user, I want to have a feature to delete a page from the pdf document. 
-US019 - As a user, I want to have a feature to add images to a PDF document.
+US010 - As a user, I want to have a feature to delete a page from the pdf document. Status: Comppleted
+US019 - As a user, I want to have a feature to add images to a PDF document. Status: Completed
 
 Joshua Kettlehake
 US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my harddrive as a standalone image file so that I am able to use them as I see fit.
@@ -31,7 +32,7 @@ US012 - As a student, I want to be able to merge multiple pdf files into one lar
 
 Priya Patel
 
-US013 - As a user, I want to have security with passwords to protect my PDFs, that nobody can read or open it.
+US021 - As a user, I want to have security with passwords to protect my PDFs, that nobody can read or open it.
 ``US014 - As a user, I want to have direct button to change the color of my fonts , to make it more attractive.
 ``US015 - As a user, I want to have list of all format to bring my file one to another, without reducing the quality of context.
 US020 - As a user, I want to create bookmarks in my PDfs, so that it's easy to navigate the pages of PDFs.
