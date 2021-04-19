@@ -7,6 +7,8 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
+/// Standard class which converts pdf pages into image files
+
 public class saveAsImage {
     public static void main(String args[]) throws IOException {
 
