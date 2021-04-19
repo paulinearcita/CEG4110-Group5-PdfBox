@@ -6,6 +6,8 @@ import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/// Standard class that extracts phone numbers from the pdf file
+
 public class ExtractPhoneNumber {
     public static void main(String[] args) throws IOException {
 
