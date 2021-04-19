@@ -31,7 +31,7 @@ Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PD
 
 US022 - As a user, I want to extract phone numbers from the pdf file to get contact information easily.
 Assigned Renish Sprint 2 1pt PO Priority: Task 049 Research how to extract phone numbers from a pdf file using PDFBox. Status completed 
-Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to extract phone numbers from a pdf file using PDFBox.
+Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to extract phone numbers from a pdf file using PDFBox. Status completed
 
 US022 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
