@@ -7,7 +7,7 @@ Assigned Pauline Sprint 1 1pts PO Priority: Task 003 Research if there are packa
 Assigned Pauline Sprint 2 2pts PO Priority: Task 026 Implement the code to create IO files for images. Status: Completed
 Assigned Pauline Sprint 2 3pts PO Priority: Task 027 Implement the code to extract texts/images. Status: Completed
 Assigned Pauline Sprint 2 3pts PO Priority: Task 028 Implement the code to convert pdf file to PowerPoint using pdfbox. Status: Completed
-Assigned Pauline Sprint 3 5pts PO Priority: Task 047 Implement Doxygen documentation.
+Assigned Pauline Sprint 3 2pts PO Priority: Task 047 Implement Doxygen documentation. Status: Completed
 
 US021 - As a user, I want to be able to extract hyperlinks on PDF document so that I can summarize all links that the document used.
 Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary information to do this user story. 
@@ -15,20 +15,23 @@ Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary informat
 US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my hard drive as a standalone image file so that I am able to use them as I see fit.
 Assigned Joshua Sprint 1 1pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files. Status: Completed
 Assigned Joshua Sprint 1 1pt PO Priority: Task 005 research how to save to hard drive as a standalone image the extracted charts and/or graphs. Status: Completed
-Assigned Joshua Sprint 1 3pt PO Priority: Task 006 implement the code necessary to achieve the functionality of US011. Status: In review
-Assigned Joshua Sprint 2 1pt PO Priority: Task 039 add doxygen style comments to us011 code previously submitted.
+Assigned Joshua Sprint 1 3pt PO Priority: Task 006 implement the code necessary to achieve the functionality of US011. Completed
+Assigned Joshua Sprint 3 1pt PO Priority: Task 039 add doxygen style comments to us011 code previously submitted.
+Assigned Joshua Sprint 3 1pt PO Priority: Task 052 allow the code to accept file paths as string variables within US011
 
 US012 - As a student, I want to be able to merge multiple pdf files into one larger pdf file so that I can have various school handouts in one location.
-Assigned Joshua Sprint 2 1pt PO Priority: Task 007 research how to merge multiple pdf files into one larger pdf file.
-Assigned Joshua Sprint 2 3pt PO Priority: Task 008 implement the code necessary to achieve the functionality of US012.
+Assigned Joshua Sprint 2 1pt PO Priority: Task 007 research how to merge multiple pdf files into one larger pdf file. Completed
+Assigned Joshua Sprint 2 3pt PO Priority: Task 008 implement the code necessary to achieve the functionality of US012. Compleded
+Assigned Joshua Sprint 3 1pt PO Priority: Task 051 add doxygen style comments to us012 code previously submitted.
+Assigned Joshua Sprint 3 1pt PO Priority: Task 053 allow the code to accept file paths as string variables within US012
 
 US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to share on social media.
 Assigned Renish Sprint 1 1pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox. Status: Completed
 Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PDFs as an image files using pdfBox. Status: Completed
 
 US008- As a user, I want to digitally sign the form inside PDFs, so I don’t have to print and sign on paper.
-Assigned Renish Sprint 2 1pt PO Priority: Task 049 Research how to put digital signature in the pdf using PDFBox.
-Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to put digital signature in the pdf using PDFBox.
+Assigned Renish Sprint 2 1pt PO Priority: Task 049 Research how to extract phone numbers from a pdf file using PDFBox.
+Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to extract phone numbers from a pdf file using PDFBox.
 
 US022 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
@@ -76,8 +79,9 @@ Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to 
 Assigned Sanyam Sprint 1 3pt PO Priority: Task 020 Implement the code for a feature which can delete a page from the pdf document. Status: Completed
 
 US019 - As a user, I want to have a feature to add images to a PDF document.
-Assigned Sanyam Sprint 2 2pt PO Priority: Task 040 Research online resources to implement adding of images to the pdf document. 
-Assigned Sanyam Spring 2 3pt PO Priority: Task 041 Implement the code for a feature which can add images to the pdf document.
+Assigned Sanyam Sprint 2 2pt PO Priority: Task 040 Research online resources to implement adding of images to the pdf document. Status: Completed
+Assigned Sanyam Spring 2 3pt PO Priority: Task 041 Implement the code for a feature which can add images to the pdf document. Status: Completed
+Assigned Sanyam Spring 2 2pt PO Priority: Task 050 Implement the code for a feature where user can enter the postion coordinates to place the image in the pdf document. Status: Completed
 
 US003 - As a user, I want a feature to extract pages from a PDF document that contains specific words so that I can find pages 
         that contains the words that I am looking for.

@@ -1,9 +1,3 @@
-import java.awt.image.BufferedImage;
-import java.io.*;
-import java.util.List;
-
-import javax.imageio.ImageIO;
-
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
 import org.apache.pdfbox.pdmodel.PDPageTree;
@@ -15,6 +9,12 @@ import org.apache.poi.xslf.usermodel.XMLSlideShow;
 import org.apache.poi.xslf.usermodel.XSLFPictureData;
 import org.apache.poi.xslf.usermodel.XSLFPictureShape;
 import org.apache.poi.xslf.usermodel.XSLFSlide;
+
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 
 public class PdfToPptx {
 

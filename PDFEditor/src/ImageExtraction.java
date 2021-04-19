@@ -1,3 +1,5 @@
+import org.apache.pdfbox.contentstream.PDFStreamEngine;
+import org.apache.pdfbox.contentstream.operator.Operator;
 import org.apache.pdfbox.cos.COSBase;
 import org.apache.pdfbox.cos.COSName;
 import org.apache.pdfbox.pdmodel.PDDocument;
@@ -5,15 +7,12 @@ import org.apache.pdfbox.pdmodel.PDPage;
 import org.apache.pdfbox.pdmodel.graphics.PDXObject;
 import org.apache.pdfbox.pdmodel.graphics.form.PDFormXObject;
 import org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject;
-import org.apache.pdfbox.contentstream.operator.Operator;
-import org.apache.pdfbox.contentstream.PDFStreamEngine;
 
+import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
-
-import javax.imageio.ImageIO;
 
 public class ImageExtraction extends PDFStreamEngine
 {

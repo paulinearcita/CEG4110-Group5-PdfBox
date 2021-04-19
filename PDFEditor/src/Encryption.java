@@ -1,9 +1,9 @@
-import java.io.FileInputStream;
-import java.io.IOException;
-
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.encryption.AccessPermission;
 import org.apache.pdfbox.pdmodel.encryption.StandardProtectionPolicy;
+
+import java.io.FileInputStream;
+import java.io.IOException;
 
 public class Encryption {
 

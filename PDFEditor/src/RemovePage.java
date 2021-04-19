@@ -1,7 +1,8 @@
+import org.apache.pdfbox.pdmodel.PDDocument;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-import org.apache.pdfbox.pdmodel.PDDocument;
 
 public class RemovePage {
     public static void main(String[] args)throws IOException {

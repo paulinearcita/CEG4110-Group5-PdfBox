@@ -23,8 +23,8 @@ US022 - As a user, I want to extract phone numbers from the pdf file to get cont
 
 Sanyam Goyal
 ~~US009 - As a user, I want to have a feature to extract text and images from different types of file formats, so I can use different types of docuements.~~
-US010 - As a user, I want to have a feature to delete a page from the pdf document. 
-US019 - As a user, I want to have a feature to add images to a PDF document.
+US010 - As a user, I want to have a feature to delete a page from the pdf document. Status: Comppleted
+US019 - As a user, I want to have a feature to add images to a PDF document. Status: Completed
 
 Joshua Kettlehake
 US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my harddrive as a standalone image file so that I am able to use them as I see fit.
