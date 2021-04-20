@@ -12,3 +12,5 @@ The source codes are located at "PDFEditor > src" and you will find all the sour
 Our team implemented codes and tested these features to make sure that everything works. All of our testing results are stored in the "TestResults" folder. There are subfolders titled with the user story number so that traceability is easy.
 
 User stories and tasks are given numbers (detailed in the backlog), and each branch and pull request was labelled accordingly, i.e., "username-t0##". Branches not related to a task or user story were given descriptive titles.
+
+Other files include, "Team.md" which contains a list of our team members with their corresponding usernames, and "featuresList.md" which has a list of features implemented in our project.
