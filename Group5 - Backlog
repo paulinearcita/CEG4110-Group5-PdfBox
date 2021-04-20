@@ -1,13 +1,13 @@
 WEEK 5 Backlog
 
-US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.
-Assigned Pauline Sprint 1 1pt PO Priority: Task 001 Research similar project. Status: Completed
-Assigned Pauline Sprint 1 2pts PO Priority: Task 002 Implement the code to create PowerPoint file and slides. Status: Completed
-Assigned Pauline Sprint 1 1pts PO Priority: Task 003 Research if there are packages that can be used for converting pdf to PowerPoint. Status: Completed
-Assigned Pauline Sprint 2 2pts PO Priority: Task 026 Implement the code to create IO files for images. Status: Completed
-Assigned Pauline Sprint 2 3pts PO Priority: Task 027 Implement the code to extract texts/images. Status: Completed
-Assigned Pauline Sprint 2 3pts PO Priority: Task 028 Implement the code to convert pdf file to PowerPoint using pdfbox. Status: Completed
-Assigned Pauline Sprint 3 2pts PO Priority: Task 047 Implement Doxygen documentation. Status: Completed
+US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.  
+Assigned Pauline Sprint 1 1pt PO Priority: Task 001 Research similar project. Status: Completed. 
+Assigned Pauline Sprint 1 2pts PO Priority: Task 002 Implement the code to create PowerPoint file and slides. Status: Completed. 
+Assigned Pauline Sprint 1 1pts PO Priority: Task 003 Research if there are packages that can be used for converting pdf to PowerPoint. Status: Completed. 
+Assigned Pauline Sprint 2 2pts PO Priority: Task 026 Implement the code to create IO files for images. Status: Completed. 
+Assigned Pauline Sprint 2 3pts PO Priority: Task 027 Implement the code to extract texts/images. Status: Completed. 
+Assigned Pauline Sprint 2 3pts PO Priority: Task 028 Implement the code to convert pdf file to PowerPoint using pdfbox. Status: Completed. 
+Assigned Pauline Sprint 3 2pts PO Priority: Task 047 Implement Doxygen documentation. Status: Completed. 
 
 US021 - As a user, I want to be able to extract hyperlinks on PDF document so that I can summarize all links that the document used.
 Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary information to do this user story. 
@@ -29,7 +29,7 @@ US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to 
 Assigned Renish Sprint 1 1pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox. Status: Completed
 Assigned Renish Sprint 1 3pt PO Priority: Task 010 Implement the code to save PDFs as an image files using pdfBox. Status: Completed
 
-US008- As a user, I want to digitally sign the form inside PDFs, so I don’t have to print and sign on paper.
+US008 - As a user, I want to digitally sign the form inside PDFs, so I don’t have to print and sign on paper.
 Assigned Renish Sprint 2 1pt PO Priority: Task 049 Research how to extract phone numbers from a pdf file using PDFBox.
 Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to extract phone numbers from a pdf file using PDFBox.
 
@@ -47,7 +47,6 @@ Assigned Priya Sprint 2 3 pt PO Priority: Task 44 Implement the code to add the 
 Assigned Priya Sprint 2 1 pt PO Priority: Task 45 Add test pdf file in main directory and update code.
 Assigned Priya Sprint 2 1pt PO Priority: Task 048 Demonstrate the user story requirements are met. Status completed.
 
-
 US005 - As a student, I want to be able to add text the pdf so I can add or omit information from my teacher's class notes that are in pdf format
 Assigned Amina Sprint 1 1pt PO Priority: Task 013 Research online resources to implement text editing using pdfbox. Status: Completed.
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox. Status: Completed
@@ -63,7 +62,7 @@ Assigned Amina Sprint 3 5pt PO Priority: Task 018 Implement Graphical User Inter
 Assigned Amina Sprint 3 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly
 Assigned Amina Sprint 2 1pt PO Priority: Task 035 Demonstrate the user story requirements are met. Status: Completed
 
-US016 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work
+US024 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work
 Assigned Amina Sprint 1 3pt PO Priority: Task 023 Set up development environment with Maven for all developers to use as template for their branches. Status: Completed
 
 US017 - As a developer, I want to use IntelliJ's built in version control functionality for easier version control
