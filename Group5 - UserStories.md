@@ -33,6 +33,6 @@ US012 - As a student, I want to be able to merge multiple pdf files into one lar
 Priya Patel
 
 US023 - As a user, I want to have security with passwords to protect my PDFs, that nobody can read or open it.
-``US014 - As a user, I want to have direct button to change the color of my fonts , to make it more attractive.
-``US015 - As a user, I want to have list of all format to bring my file one to another, without reducing the quality of context.
+~~US014 - As a user, I want to have direct button to change the color of my fonts , to make it more attractive.~~
+~~US015 - As a user, I want to have list of all format to bring my file one to another, without reducing the quality of context.~~
 US020 - As a user, I want to create bookmarks in my PDfs, so that it's easy to navigate the pages of PDFs.
