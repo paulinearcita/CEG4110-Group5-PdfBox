@@ -13,4 +13,6 @@ Our team implemented codes and tested these features to make sure that everythin
 
 User stories and tasks are given numbers (detailed in the backlog), and each branch and pull request was labelled accordingly, i.e., "username-t0##". Branches not related to a task or user story were given descriptive titles.
 
+Our source code files are formatted using doxygen comments, and the SDD via automatic generation using doxygen is in the SDD folder.
+
 Other files include, "Team.md" which contains a list of our team members with their corresponding usernames, and "featuresList.md" which has a list of features implemented in our project.
