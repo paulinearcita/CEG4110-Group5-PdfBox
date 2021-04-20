@@ -33,19 +33,19 @@ US008- As a user, I want to digitally sign the form inside PDFs, so I don’t ha
 Assigned Renish Sprint 2 1pt PO Priority: Task 049 Research how to extract phone numbers from a pdf file using PDFBox.
 Assigned Renish Sprint 2 3pt PO Priority: Task 050 Implement the code to extract phone numbers from a pdf file using PDFBox.
 
-US022 - As a user,I want to have security into my PDFs file.
+US023 - As a user,I want to have security into my PDFs file.
 Assigned Priya Sprint 1 1 pt PO priority : Task 029 Research how to Access permission from the user. Status completed.
 Assigned Priya Sprint 1 2 pt PO priority : Task 030 Implement the code Encryption permission policy into PDF file using PDFbox. Status completed
 Assigned Priya Sprint 2 3 pt:PO priority: Task 032 Implement the code necessary to achieve the functionality of US013.
 Assigned Priya Sprint 2 1 pt PO Priority: Task 46 Add test pdf file in main directory and update code.
-Assigned Priya Sprint 2 1pt PO Priority: Task 47 Demonstrate the user story requirements are met
+Assigned Priya Sprint 2 1pt PO Priority: Task 47 Demonstrate the user story requirements are met. Status completed
 
 US020 - As a user, I want to create a bookmarks in my PDFS, so that its easy to navigate my pages
 Assigned Priya Sprint 2 1pt PO Priority: Task 42 Research the similar projects. Status: Completed
 Assigned Priya Sprint 2 2 pt PO Priority: Task 43 Implement the code to count the pages of PDfs using pdf box. Status:Completed
 Assigned Priya Sprint 2 3 pt PO Priority: Task 44 Implement the code to add the bookmarks to the PDF document.
 Assigned Priya Sprint 2 1 pt PO Priority: Task 45 Add test pdf file in main directory and update code.
-Assigned Priya Sprint 2 1pt PO Priority: Task 048 Demonstrate the user story requirements are met
+Assigned Priya Sprint 2 1pt PO Priority: Task 048 Demonstrate the user story requirements are met. Status completed.
 
 
 US005 - As a student, I want to be able to add text the pdf so I can add or omit information from my teacher's class notes that are in pdf format
