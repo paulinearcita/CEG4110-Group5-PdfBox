@@ -1,4 +1,4 @@
-Jean Pauline Arcita
+Jean Pauline Arcita:  
 ~~US001 - As a user, I want to have a feature to search for handwritten notes so that I can look for words even it is handwritten.~~
 ~~US002 - As a user, I want to have a feature to add collaborators and tag them on the document so that they will be notified when they need something done in the document.~~
 US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.
