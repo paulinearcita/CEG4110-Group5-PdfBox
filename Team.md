@@ -1,6 +1,6 @@
 **Group 5**
 
-Pauline Arcita: paulinearcita
+Jean Pauline Arcita: paulinearcita
 
 Joshua Kettlehake: joshkettlehake
 
