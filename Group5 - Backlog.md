@@ -1,6 +1,6 @@
 # Group 5 Backlog
 
-**US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.   **
+**US016 - As a user, I want to be able to convert pdf files to PowerPoint so that I can present my pdf as a slideshow.**  
 Assigned Pauline Sprint 1 1pt PO Priority: Task 001 Research similar project. Status: Completed.   
 Assigned Pauline Sprint 1 2pts PO Priority: Task 002 Implement the code to create PowerPoint file and slides. Status: Completed.   
 Assigned Pauline Sprint 1 1pts PO Priority: Task 003 Research if there are packages that can be used for converting pdf to PowerPoint. Status: Completed.   
