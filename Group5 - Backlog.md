@@ -11,7 +11,6 @@ Assigned Pauline Sprint 3 2pts PO Priority: Task 047 Implement Doxygen documenta
 
 **US021 - As a user, I want to be able to extract hyperlinks on PDF document so that I can summarize all links that the document used.**  
 Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary information to do this user story. Status: Completed.
-Assigned Pauline Sprint 3 5pts PO Priority: Task 054 Implement the code to extract hyperlinks. 
 
 **US011 - As a user, I want to be able to extract charts and/or graphs from pdf files and to be able to save them to my hard drive as a standalone image file so that I am able to use them as I see fit.**  
 Assigned Joshua Sprint 1 1pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files. Status: Completed  
