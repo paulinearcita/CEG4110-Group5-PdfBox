@@ -58,8 +58,8 @@ Assigned Amina Sprint 2 1pt PO Priority: Task 034 Demonstrate the user story req
 Assigned Amina Sprint 1 1pt PO Priority: Task 016 Research online resources to implement image extraction using pdfbox. Status: Completed.  
 Assigned Amina Sprint 1 2pt PO Priority: Task 014 Implement the code to import existing pdf file using pdfbox. Status: Completed  
 Assigned Amina Sprint 2 3pt PO Priority: Task 017 Implement code to extract images from pdf file using pdfbox. Status: Completed  
-Assigned Amina Sprint 3 5pt PO Priority: Task 018 Implement Graphical User Interface to make editing user friendly  
-Assigned Amina Sprint 3 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly  
+Assigned Amina Sprint 4 5pt PO Priority: Task 018 Implement Graphical User Interface to make editing user friendly  
+Assigned Amina Sprint 4 1pt PO Priority: Task 033 Add test pdf file in main directory for testing and update code accordingly  
 Assigned Amina Sprint 2 1pt PO Priority: Task 035 Demonstrate the user story requirements are met. Status: Completed  
 
 **US024 - As a developer, I want to be able to set up the development environment before coding other user stories for efficient team work**  
@@ -70,7 +70,7 @@ Assigned Amina Sprint 1 1pt PO Priority: Task 024 Create a video demonstrating u
 Assigned Amina Sprint 1 3pt PO Priority: Task 025 Use IntelliJ to create a test pull request, have it reviewed, and merged. Status: Completed  
 
 **US018 - As a developer, I want to use Doxygen to create a software design document for efficient design documentation**  
-Assigned Amina Sprint 3 1pt PO Priority: Task 037 Add Doxygen formatted comments  
+Assigned Amina Sprint 3 2pt PO Priority: Task 037 Add Doxygen formatted comments  
 Assigned Amina Sprint 3 2pt PO Priority: Task 038 Use Doxygen to produce doxyfile for entire project  
 
 **US010 - As a user, I want to have a feature to delete a page from the pdf document.**    
