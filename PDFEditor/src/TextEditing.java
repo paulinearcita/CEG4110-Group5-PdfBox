@@ -8,7 +8,7 @@ import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 
-//Adds text to PDF as a way of annotation
+//Adds text to PDF as a way of annotation.
 ///Text can have unique font, color, size, and location. As of right now the program adds three seperate lines of text at unique positions
 public class TextEditing {
     ///Main method invoked for preliminary testing
