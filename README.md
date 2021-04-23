@@ -1,4 +1,4 @@
-# CEG4110-Group5-PdfBox
+# CEG4110 Group5: PDFBox
 This is the PDF Box implementation by Group 5 for CEG 4110 Spring 2021. We are using PDF Box to implement various pdf editing capabilities, such as saving pdf as image, saving pdf as powerpoint, extracting images from pdf files, editing text in pdf file and so much more!
 
 All files that we have worked on are included in this repository. Starting from User Stories, Backlogs, implementation of tasks, test results as well as Software Design Document.
