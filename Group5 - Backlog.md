@@ -71,7 +71,7 @@ Assigned Amina Sprint 1 3pt PO Priority: Task 025 Use IntelliJ to create a test 
 
 **US018 - As a developer, I want to use Doxygen to create a software design document for efficient design documentation**  
 Assigned Amina Sprint 3 2pt PO Priority: Task 037 Add Doxygen formatted comments  
-Assigned Amina Sprint 3 2pt PO Priority: Task 038 Use Doxygen to produce doxyfile for entire project  
+Assigned Amina Sprint 3 2pt PO Priority: Task 038 Use Doxygen to produce doxyfile for entire project. Status: Completed.  
 
 **US010 - As a user, I want to have a feature to delete a page from the pdf document.**    
 Assigned Sanyam Sprint 1 1pt PO Priority: Task 019 Research online resources to implement a feature to delete a page from the pdf document Status: Completed  
