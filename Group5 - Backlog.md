@@ -16,14 +16,14 @@ Assigned Pauline Sprint 3 2pts PO Priority: Task 046 Research necessary informat
 Assigned Joshua Sprint 1 1pt PO Priority: Task 004 research how to extract charts and/or graphs from pdf files. Status: Completed  
 Assigned Joshua Sprint 1 1pt PO Priority: Task 005 research how to save to hard drive as a standalone image the extracted charts and/or graphs. Status: Completed  
 Assigned Joshua Sprint 1 3pt PO Priority: Task 006 implement the code necessary to achieve the functionality of US011. Completed  
-Assigned Joshua Sprint 3 1pt PO Priority: Task 039 add doxygen style comments to us011 code previously submitted.  
-Assigned Joshua Sprint 3 1pt PO Priority: Task 052 allow the code to accept file paths as string variables within US011  
+Assigned Joshua Sprint 3 1pt PO Priority: Task 039 add doxygen style comments to us011 code previously submitted. Under review (04/22)  
+Assigned Joshua Sprint 3 1pt PO Priority: Task 052 allow the code to accept file paths as string variables within US011. Under review (04/22)    
 
 **US012 - As a student, I want to be able to merge multiple pdf files into one larger pdf file so that I can have various school handouts in one location.**  
 Assigned Joshua Sprint 2 1pt PO Priority: Task 007 research how to merge multiple pdf files into one larger pdf file. Completed  
 Assigned Joshua Sprint 2 3pt PO Priority: Task 008 implement the code necessary to achieve the functionality of US012. Compleded  
-Assigned Joshua Sprint 3 1pt PO Priority: Task 051 add doxygen style comments to us012 code previously submitted.  
-Assigned Joshua Sprint 3 1pt PO Priority: Task 053 allow the code to accept file paths as string variables within US012  
+Assigned Joshua Sprint 3 1pt PO Priority: Task 051 add doxygen style comments to us012 code previously submitted. Under review (04/22)  
+Assigned Joshua Sprint 3 1pt PO Priority: Task 053 allow the code to accept file paths as string variables within US012. Under review (04/22)  
 
 **US007 - As a user, I want to save PDFs as an image files such as PNG or JPEG to share on social media.**  
 Assigned Renish Sprint 1 1pt PO Priority: Task 009 Research how to save PDFs as an image files using pdfBox. Status: Completed  
