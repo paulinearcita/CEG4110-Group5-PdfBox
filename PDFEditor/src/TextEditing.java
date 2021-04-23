@@ -8,48 +8,47 @@ import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 
-
+//Adds text to PDF as a way of annotation
+///Text can have unique font, color, size, and location. As of right now the program adds three seperate lines of text at unique positions
 public class TextEditing {
+    ///Main method invoked for preliminary testing
     public static void main(String args[]) throws IOException {
-        //to load PDF where you
-        PDDocument pdDocument = PDDocument.load(new File("C:/Users/wsucatslabs/Documents/test.pdf"));
-        //get the page where you want to write code,for first page you need to use 0
-        PDPage firstPage = pdDocument.getPage(0);
+        PDDocument pdDocument = PDDocument.load(new File("C:/Users/wsucatslabs/Documents/test.pdf")); ///< PDF document object loaded from provided file path
 
-        //you can load new font if required, by using `ttf` file for that font
-        PDFont pdfFont= PDType1Font.HELVETICA_BOLD;
+        PDPage firstPage = pdDocument.getPage(0); ///< first page of the PDF loaded
 
-        int fontSize = 9;
-        //PDPageContentStream.AppendMode.APPEND this part is must if you want just add new data in exsitnig one
+        PDFont pdfFont= PDType1Font.HELVETICA_BOLD; //font
+
+        int fontSize = 9; //font size
+
         PDPageContentStream contentStream = new PDPageContentStream(pdDocument, pdDocument.getPage(0),
-                PDPageContentStream.AppendMode.APPEND, true, true);
+                PDPageContentStream.AppendMode.APPEND, true, true); ///< output stream that will append text
 
-        contentStream.setFont(pdfFont, fontSize);
-        contentStream.setNonStrokingColor(Color.YELLOW);
-        //for first Line
+        contentStream.setFont(pdfFont, fontSize); //set font and font size for the stream
+        contentStream.setNonStrokingColor(Color.YELLOW); //set a stroking color
+
+        //write the first line of text
         contentStream.beginText();
-        //For adjusting location of text on page you need to adjust this two values
         contentStream.newLineAtOffset(400,220);
         contentStream.showText("this is line first");
         contentStream.endText();
 
-        //for second line
+        //write the second line of text
         contentStream.beginText();
         contentStream.newLineAtOffset(400,100);
         contentStream.showText("this is line second");
         contentStream.endText();
 
-        //for  third line
+        //write the third line of text
         contentStream.beginText();
         contentStream.newLineAtOffset(400,330);
         contentStream.showText("this is line third");
         contentStream.endText();
-        //and so on.
 
-        //at last you need to close the document to save data
+        //close the stream
         contentStream.close();
-        //this is for saving your PDF you can save with new name
-        //or you can replace existing one by giving same name
+
+        //save the document
         pdDocument.save("C:/Users/wsucatslabs/Documents/testcheck.pdf");
     }
 }
