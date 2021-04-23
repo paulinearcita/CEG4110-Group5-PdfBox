@@ -2,6 +2,7 @@ package extractimage;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Scanner;
 import javax.imageio.ImageIO;
 import org.apache.pdfbox.cos.COSName;
 import org.apache.pdfbox.pdmodel.PDDocument;
@@ -12,16 +13,18 @@ import org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject;
 
 public class ExtractImage {
 
-    //  The path to PDF to be extracted from
-    // public static final String CONTENT_PDF = "C:\\Users\\Joshua\\Downloads\\PDFBOX-Task006-testing.pdf";
-    // Blank test commented out    
-    public static final String CONTENT_PDF = "C:\\Users\\Joshua\\Pictures\\Intro to Software\\Sermon (17 March 2021) (1).pdf";
-
-    public static void main(String[] args) {
+    /// ExtractImage accepts one String variable from outside
+    /// These files MUST be full PDF locations with double \s
+    public static void main(String CONTENT_PDF) {
+        /// set the destination file path
+        /// these files MUST be full locations with double \s upon completion
+        Scanner userInput = new Scanner (System.in);
+        System.out.print("Please enter the destination of the extracted image files excluding any file type: ");
+        String destination = userInput.nextLine();
+        
         try {
             PDDocument document = PDDocument.load(new File(CONTENT_PDF));
-            // Getting the resources for a page
-
+            /// Getting the resources for a page
             PDResources pdResources = document.getPage(0).getResources();
                 
                 for (COSName csName : pdResources.getXObjectNames()) {
@@ -31,8 +34,8 @@ public class ExtractImage {
                         PDStream pdStream = pdxObject.getStream();
                         PDImageXObject image = new PDImageXObject(pdStream, pdResources);
                         
-                        // image storage location and image name
-                        File imgFile = new File("C:\\Users\\Joshua\\Pictures\\Intro to Software\\TestImage" + 1 + ".png");
+                        /// image storage location and image name
+                        File imgFile = new File(destination + 1 + ".png");
                         ImageIO.write(image.getImage(), "png", imgFile);
                     }
                 }
@@ -41,7 +44,6 @@ public class ExtractImage {
             int j = 0;
 
             while (i > j) {
-
                 pdResources = document.getPage(j).getResources();
                 int k = 1;
                 for (COSName csName : pdResources.getXObjectNames()) {
@@ -51,8 +53,8 @@ public class ExtractImage {
                         PDStream pdStream = pdxObject.getStream();
                         PDImageXObject image = new PDImageXObject(pdStream, pdResources);
                         k++;
-                        // image storage location and image name
-                        File imgFile = new File("C:\\Users\\Joshua\\Pictures\\Intro to Software\\TestImage" + k + ".png");
+                        /// image storage location and image name
+                        File imgFile = new File(destination + k + ".png");
                         ImageIO.write(image.getImage(), "png", imgFile);
                     }
                 }
@@ -60,7 +62,7 @@ public class ExtractImage {
             }
             document.close();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
+            /// Auto-generated catch block
             e.printStackTrace();
         }
     }
