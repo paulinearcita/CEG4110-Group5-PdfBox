@@ -89,5 +89,6 @@ Assigned Hazel Sprint 2 2pt PO Priority: Task 022 Implement the code to count ho
 Assigned Hazel Sprint 2 2pt PO Priority: Task 031 Implement the code to show the pages where the string was found. Status: Completed   
 Assigned Hazel Sprint 2 1pt PO Priority: Task 042 Create a test file to test the implemented code. Status: Completed   
 Assigned Hazel Sprint 3 3pt PO Priority: Task 043 Implement code to create new file with only the pages of original file containing the searched string.
-Assigned Hazel Sprint 3 3pt PO Priority: Task 044 Add doxygen style comments.
+Assigned Hazel Sprint 3 1pt PO Priority: Task 044 Add doxygen style comments.
 Assigned Hazel Sprint 3 1pt PO Priority: Task 045 Demonstrate that the user story requirements are met.  
+Assigned Hazel Sprint 3 1pt PO Priority: Task 053 Make code user friendly.
