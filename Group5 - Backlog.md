@@ -82,12 +82,12 @@ Assigned Sanyam Sprint 2 2pt PO Priority: Task 040 Research online resources to 
 Assigned Sanyam Spring 2 3pt PO Priority: Task 041 Implement the code for a feature which can add images to the pdf document. Status: Completed  
 Assigned Sanyam Spring 2 2pt PO Priority: Task 050 Implement the code for a feature where user can enter the postion coordinates to place the image in the pdf document. Status: Completed  
 
-**US003 - As a user, I want a feature to extract pages from a PDF document that contains specific words so that I can find pages that contains the words that I am looking for.**  
+**US003 - As a user, I want a feature to extract pages from a PDF document that contains specific words so that I can find pages that contains the words that I am looking for.**
 Assigned Hazel Sprint 1 1pt PO Priority: Task 021 Research how to extract text from PDF files and view pages that contain them. Status: Completed  
 Assigned Hazel Sprint 1 1pt PO Priority: Task 036 Research how to view pages that contain searched text. Status: Completed   
 Assigned Hazel Sprint 2 2pt PO Priority: Task 022 Implement the code to count how many times string showed up in the pdf. Status: Completed   
 Assigned Hazel Sprint 2 2pt PO Priority: Task 031 Implement the code to show the pages where the string was found. Status: Completed   
 Assigned Hazel Sprint 2 1pt PO Priority: Task 042 Create a test file to test the implemented code. Status: Completed   
-Assigned Hazel Sprint 2 3pt PO Priority: Task 043 Implement a Graphical User Interface to show the pages of the pdf file.  
-Assigned Hazel Sprint 3 3pt PO Priority: Task 044 Set up the Graphical User Interface so that it shows only the pages that contain the searched strings.  
+Assigned Hazel Sprint 3 3pt PO Priority: Task 043 Implement code to create new file with only the pages of original file containing the searched string.
+Assigned Hazel Sprint 3 3pt PO Priority: Task 044 Add doxygen style comments.
 Assigned Hazel Sprint 3 1pt PO Priority: Task 045 Demonstrate that the user story requirements are met.  
