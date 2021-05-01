@@ -144,6 +144,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="slf4j-nop-1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox:2.0.22" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.pdfbox:fontbox:2.0.22" level="project" />
@@ -210,6 +211,6 @@
     <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-xml:1.13" level="project" />
     <orderEntry type="library" name="Maven: de.rototor.pdfbox:graphics2d:0.30" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-simple:1.6.1" level="project" />
-    <orderEntry type="library" name="slf4j-nop-1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
   </component>
 </module>
